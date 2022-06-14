@@ -1,3 +1,0 @@
-/src/cpp_opennn/build/CMakeFiles/project.dir
-/src/cpp_opennn/build/CMakeFiles/edit_cache.dir
-/src/cpp_opennn/build/CMakeFiles/rebuild_cache.dir
